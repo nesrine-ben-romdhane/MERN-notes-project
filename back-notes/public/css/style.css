@@ -1,0 +1,14 @@
+
+h2 {
+    color: #fff;
+    font-size: 85px;
+    position: absolute; 
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1 {
+    color: red;
+}
+body {
+    background-color: black;
+}
